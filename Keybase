@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am linusturvulds on github.
+  * I am minosprime (https://keybase.io/minosprime) on keybase.
+  * I have a public key ASDw311XH39AIl59AwZH3U_IHY84aogpWlov99-GYlfCogo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f0df5d571f7f40225e7d030647dd4fc81d8f386a88295a5a2ff7df866257c2a20a",
+      "host": "keybase.io",
+      "kid": "0120f0df5d571f7f40225e7d030647dd4fc81d8f386a88295a5a2ff7df866257c2a20a",
+      "uid": "2f78bf0ce4bd4cc097939a0799d8fe19",
+      "username": "minosprime"
+    },
+    "merkle_root": {
+      "ctime": 1688138124,
+      "hash": "a1ef77e2537bbbefd085b830061bc1cc3b6ae218d77b7e207aad9aa4dbe44c5b2bd0903bf974fc86a07d5d8e7fb520a1dfa00e56bc455ce23df49bf26686585f",
+      "hash_meta": "fd0611c2099a9053339a2e7c3da146e82b7a6dd62a3e768963d437a3a0fcb73a",
+      "seqno": 24626841
+    },
+    "service": {
+      "entropy": "zPVvNmzA9S1joz+MSjPiFkvm",
+      "name": "github",
+      "username": "linusturvulds"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1688138222,
+  "expire_in": 504576000,
+  "prev": "cbb682facc829b22d6dc769ac541c9ff31dd127153245c728ebf060c1301f68c",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASDw311XH39AIl59AwZH3U_IHY84aogpWlov99-GYlfCogo](https://keybase.io/minosprime), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8N9dVx9/QCJefQMGR91PyB2POGqIKVpaL/ffhmJXwqIKp3BheWxvYWTESpcCCMQgy7aC+syCmyLW3HaaxUHJ/zHdEnFTJFxyjr8GDBMB9ozEIKTITG79ajlFuKJu8xVeB1XGsyi8t8oVefLzrAjOXWV+AgHCo3NpZ8RAtxaWO0lOJx9UmpYADnLwBF9U9Vredw25/hZBTiyWf9/JCu5JgEk/Qw47DGiJSb33jPCDfQz0zTfb1dDKnP2UCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG+GLrIFSPOByTSObrSAEyLZoTKuWJaNuGqcK1uJF8lUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/minosprime
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id minosprime
+```
